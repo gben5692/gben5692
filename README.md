@@ -19,8 +19,5 @@ Check out my repos
 I’m a big fan of the GitHub :shipit: emoji. If you see it in my commits, you know something cool just shipped!
 
 ---
-
-Thanks for stopping by! I don’t stick to just one thing—let’s make coding fun and adventurous together. :shipit:
-
 > [!Caution]
 > :shipit:
