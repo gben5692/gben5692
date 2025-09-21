@@ -1,18 +1,16 @@
 # Hi there, I’m gben5692! :shipit:
 
 Welcome to my GitHub profile!  
-I’m a passionate **programmer** and **game developer** who loves building fun and exciting things—wherever curiosity takes me. I have experience with **Unity**, **Unreal Engine**, **C#**, **C++**, and **Luau** (Roblox Scripting Language), and I enjoy exploring new tech and creative ideas.
+I’m a passionate **programmer** and **game developer** who loves building fun and exciting things—wherever curiosity takes me. I have experience with **Unity**, **Unreal Engine**, **C#**, **C++**, and **Luau** (Roblox Scripting Language).
 
 ## 🚀 What I Do
 - **Game Development:** Unity, Unreal Engine, Roblox scripting
 - **Software Projects:** I build whatever looks interesting or exciting—no limits, no borders!
-- **Tech Explorer:** I love trying new languages, engines, and platforms
 
 ## 🛠️ My Skills
-- **C#** (Unity)
-- **C++** (Unreal Engine, general use)
+- **C#**
+- **C++**
 - **Luau** (Roblox scripting)
-- Always learning more!
 
 ## 🎮 Public Projects
 Check out my public repos:
