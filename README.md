@@ -12,10 +12,8 @@ I’m a passionate **programmer** and **game developer** who loves building fun 
 - **C++**
 - **Luau** (Roblox scripting)
 
-## 🎮 Public Projects
-Check out my public repos:
-- [SCP-SL-Server-Discord-Webhook](https://github.com/gben5692/SCP-SL-Server-Discord-Webhook)
-- [ConsoleCalculator](https://github.com/gben5692/ConsoleCalculator)
+## 🎮 Projects
+Check out my repos
 
 ## 🧑‍💻 Fun Fact
 I’m a big fan of the GitHub :shipit: emoji. If you see it in my commits, you know something cool just shipped!
