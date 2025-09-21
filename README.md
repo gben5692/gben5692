@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I’m gben5692! :shipit:
 
-<!--
-**gben5692/gben5692** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m a passionate **programmer** and **game developer** who loves building fun and exciting things—wherever curiosity takes me. I have experience with **Unity**, **Unreal Engine**, **C#**, **C++**, and **Luau**, and I enjoy exploring new tech and creative ideas.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- **Game Development:** Unity, Unreal Engine, Roblox scripting
+- **Software Projects:** I build whatever looks interesting or exciting—no limits, no borders!
+- **Tech Explorer:** I love trying new languages, engines, and platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skills
+- **C#** (Unity)
+- **C++** (Unreal Engine, general use)
+- **Luau** (Roblox scripting)
+- Always learning more!
+
+## 🎮 Public Projects
+Check out my public repos:
+- [SCP-SL-Server-Discord-Webhook](https://github.com/gben5692/SCP-SL-Server-Discord-Webhook)
+- [ConsoleCalculator](https://github.com/gben5692/ConsoleCalculator)
+
+## 🧑‍💻 Fun Fact
+I’m a big fan of the GitHub :shipit: emoji. If you see it in my commits, you know something cool just shipped!
+
+---
+
+Thanks for stopping by! I don’t stick to just one thing—let’s make coding fun and adventurous together. :shipit:
